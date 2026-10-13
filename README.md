@@ -24,6 +24,3 @@ I used closures in two places: `counter()` and `memoize(fn)`. In `counter()` the
 
 ![tests](./screenshots/tests.png)
 
-## AI tools used
-
-Claude (Anthropic) helped me write the first version of the functions, the classes and the tests. I read and checked the code and can explain it at the demo.
